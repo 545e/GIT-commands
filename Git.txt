@@ -1,0 +1,24 @@
+Create a repository first:
+Then select folder
+Open folder: cmd 
+                            Code .
+Open terminal:
+* Past bottom lines
+* Past upper lines 
+* git add .
+* git commit -m “ “
+* git push
+
+
+
+or
+Create a repository first:
+Then select folder
+ open gitbash
+* Past upper lines repositories
+* git add .
+* git commit -m “ “
+* git push
+* 
+
+
